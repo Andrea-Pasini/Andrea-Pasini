@@ -5,7 +5,7 @@
 ### <i>About</i>
 
 -  **Country :** Italy 🇮🇹 🇪🇺 
--  **Now learning :** Python 🐍 | Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Logo" width="20" height="20">
+-  **Now learning :** Python 🐍 | Git   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Logo" width="20" height="20">
 -  **Now Following :** CS50x: Introduction to Computer Science :floppy_disk:
 -  **Hobbies :** Sports :basketball:  & Music :headphones:
 
