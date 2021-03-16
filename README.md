@@ -6,10 +6,10 @@
 
 -  **Country :** Italy 🇮🇹 🇪🇺 
 -  **Now Learning :** Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Logo" width="15" height="15"> | Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Logo" width="15" height="15">
--  **Now Following :** CS50x: Introduction to Computer Science <img src="https://w7.pngwing.com/pngs/156/381/png-transparent-open-edx-massive-open-online-course-organization-education-world-wide-web-blue-text-people.png" alt="Logo" width="25">
+-  **Now Following :** CS50x: Introduction to Computer Science 💻
 -  **Hobbies :** Sports :basketball:  & Music :headphones:
 
 <p align="left">
-  <img alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andrea-Pasini&show_icons=true&theme=radical">
+  <img alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andrea-Pasini&show_icons=true&theme=merko">
 </p>
 
