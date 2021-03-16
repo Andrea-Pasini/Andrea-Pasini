@@ -10,6 +10,6 @@
 -  **Hobbies :** Sports :basketball:  & Music :headphones:
 
 <p align="left">
-  <img alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andrea-Pasini&show_icons=true&theme=merko">
+  <img alt="Andrea's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Andrea-Pasini&show_icons=true&theme=dark">
 </p>
 
