@@ -6,7 +6,7 @@
 
 -  **Country :** Italy 🇮🇹 🇪🇺 
 -  **Now Learning :** Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Logo" width="15" height="15"> | Git <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Logo" width="15" height="15">
--  **Now Following :** CS50x: Introduction to Computer Science <img src="https://www.clipartmax.com/png/middle/214-2149545_rubber-ducky-silhouette-rubber-duck-svg-file.png" alt="Logo" width="15">
+-  **Now Following :** CS50x: Introduction to Computer Science <img src="https://cdn.freebiesupply.com/images/large/2x/harvard-logo-transparent.png" alt="Logo" width="15">
 -  **Hobbies :** Sports :basketball:  & Music :headphones:
 
 <p align="left">
